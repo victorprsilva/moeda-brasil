@@ -15,7 +15,7 @@ and the Flutter guide for
 
 Um pacote Dart para manipulação e formatação de valores monetários no formato da moeda brasileira (Real - BRL).
 
-![Preview do pacote moeda_brasil](src/screenshot_preview.png)
+![Preview do pacote moeda_brasil](https://github.com/victorprsilva/moeda-brasil/blob/master/src/screenshot_preview.png?raw=true)
 
 Transforme a maneira como você lida com valores monetários em Real brasileiro em seus aplicativos Dart e Flutter! Com o pacote **moeda_brasil**, a formatação e conversão de valores monetários torna-se simples e precisa.
 
