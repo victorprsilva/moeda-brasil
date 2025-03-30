@@ -1,3 +1,9 @@
+## 1.1.2
+
+- Adicionada imagem de preview do pacote no README
+- Incluída informação sobre o gerador online para usuários do FlutterFlow
+- Melhorada a apresentação visual da documentação
+
 ## 1.1.1
 
 - Adicionadas informações de autor e repositório no GitHub
