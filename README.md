@@ -29,7 +29,7 @@ Adicione `moeda_brasil` como uma dependência no seu arquivo `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  moeda_brasil: ^1.1.0
+  moeda_brasil: ^1.1.1
 ```
 
 Depois execute:

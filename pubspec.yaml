@@ -1,6 +1,6 @@
 name: moeda_brasil
 description: Biblioteca para formatação de valores monetários no padrão brasileiro (BRL/Real).
-version: 1.1.0
+version: 1.1.1
 repository: https://github.com/victorprsilva/moeda-brasil
 homepage: https://github.com/victorprsilva/moeda-brasil
 
